@@ -29,6 +29,10 @@
 - Github: [@sunny-117](https://github.com/sunny-117)
 - personal share: [个人分享](https://jzq422bol5.feishu.cn/docx/doxcnyogD4POabvLHoa1yoEH9W0)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Sunny-117/js-challenges&type=Date)](https://star-history.com/#Sunny-117/js-challenges&Date)
+
 # CONTENT
 
 前端手写题集锦 记录大厂**笔试，面试常考**手写题，2022 年前端面试中常见的 leetcode 算法题, 致力打造最全的前端 JavaScript 手写题题库和答案的最优解
@@ -50,19 +54,6 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 <a href="https://github.com/Sunny-117/js-challenges/graphs/contributors"><img src="https://contrib.rocks/image?repo=Sunny-117/js-challenges" style="height: 100px" /></a>
 
 Thank you to all the people who already contributed to js-challenges!
-
-
-# js-challenges 用户微信群
-
-主要用来解答 js-challenges 用户的疑问，js-challenges 的贡献，计划 js-challenges 的未来(建议)
-
-欢迎加我微信，我拉你进群：17560850561
-
-<center class="half">
-<img src="./assets/qun.png" width="100">
-<img src="./assets/me.png" width="100">
-</center>
-<!-- ![](assets/2023-01-11-13-05-42.png)![](assets/2023-01-11-13-08-34.png) -->
 
 # 前端 JavaScript 手写题
 
@@ -231,6 +222,7 @@ TODOS
 - [实现一个 LazyMan ](https://github.com/Sunny-117/js-challenges/issues/382)
 - [标签整理分类题](https://github.com/Sunny-117/js-challenges/issues/391)
 - [求集合单词组合起来的不同结果，集合中的单词不重复，每个结果包含所有单词](https://github.com/Sunny-117/js-challenges/issues/418)
+- [实现简易版的useState](https://github.com/Sunny-117/js-challenges/issues/502)
 
 ## ts 类型体操
 
@@ -448,6 +440,7 @@ TODOS
 
 ## 数组
 
+- [把数组排成最小的数](https://github.com/Sunny-117/js-challenges/issues/501)
 - [买卖股票的最佳时机](https://github.com/Sunny-117/js-challenges/issues/268)
 - [最长递增子序列](https://github.com/Sunny-117/js-challenges/issues/277)
 
@@ -576,20 +569,6 @@ TODOS
 - [不同的子序列](https://github.com/Sunny-117/js-challenges/issues/448)
 - [最长重复子串](https://github.com/Sunny-117/js-challenges/issues/449)
 
-# 更新中
-
-![](js.png)
-
-![](algorithm.png)
-
-# 后续计划
-
-- [ ] 区分题目难易程度（针对不同大厂准备的面试题），提升准备效率 优先级最高
-- [ ] 做成 OJ 判题系统
-- [ ] 单元测试
-- [ ] 正确答案集合 merge
-
-大家可以给仓库一些建议，本仓库资源来源于社区，也完全服务于社区
 
 社区建议收集区：https://github.com/Sunny-117/js-challenges/discussions
 
